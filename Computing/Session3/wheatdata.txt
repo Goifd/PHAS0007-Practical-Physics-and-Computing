@@ -1,0 +1,11 @@
+# measured number of wheat spikes in each patch
+533
+440
+484
+446
+474
+492
+512
+515
+528
+572
